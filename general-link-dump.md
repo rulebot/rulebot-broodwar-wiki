@@ -21,3 +21,8 @@
 
 - [Tasteless "Tasteless Teaches Broodwar #2: Probes"](https://www.youtube.com/watch?v=bWXu3yLuQJk)
 - [Khrane "Brood War PvT 28 Nexus Opening"](https://www.youtube.com/watch?v=SGe-i99zeEc)
+
+
+
+# Build Orders 
+- [PvZ Walls - Ladder/ASL and More 2025](https://docs.google.com/document/d/1DZBGMoQYQ94Dbw9T9YGzLskCA-8sZj9U_h6RBuZTzME/edit?tab=t.0)
