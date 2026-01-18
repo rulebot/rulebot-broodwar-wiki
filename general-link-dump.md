@@ -14,7 +14,7 @@
 
 # Game and Replay Analysis
 
-- [NewOcean "CPL 12 NewOcean vs. dB)OLDBOY"](https://www.twitch.tv/videos/2672451573)
+- [NewOcean "CPL 12 NewOcean vs. dB)OLDBOY" (PvT)](https://www.twitch.tv/videos/2672451573)
 
 
 # Single Tutorial Video
