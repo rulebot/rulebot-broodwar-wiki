@@ -1,3 +1,10 @@
+# Brood War Casts
+
+- [JJZ Starcraft](https://www.youtube.com/@JJZ-Starcraft)
+- [SaiyanKCM](https://www.youtube.com/@SaiyanKCM)
+- [SOOP esports EN](https://www.youtube.com/@SOOPesports_EN)
+- [ArtosisCasts](https://www.youtube.com/@ArtosisCasts)
+
 
 # Tutorial Channels
 
