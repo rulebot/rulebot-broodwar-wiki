@@ -17,8 +17,8 @@ Build order taken from replay "PvT - 23 Nex Open.rep" by dB)Teame.
 
 ## Scouting Intel
 - 23/25 Scouting with 1st Goon, CC found?
-- yes: 2x Probe
-- no:  Goon
+  - yes: 2x Probe
+  - no:  Goon
 
 ## Core Setup
 - 25/33 Robo
