@@ -42,12 +42,12 @@ Build order taken from replay "PvT - 23 Nex Open.rep" by dB)Teame.
 - 51/58 Pylon
 - Good Luck!
 
-# Mission Objectives From Here On
+## Mission Objectives From Here On
 - Clear the way to the third (VultureMinesweeping)
 - Get Map Control (Minesweeping)
 - Get 3rd Nexus
 
-# Benchmarks at 6:00 Minutes:
+## Benchmarks at 6:00 Minutes:
 - 30 Probes
 - 6  Goons
 - 1  Observer
