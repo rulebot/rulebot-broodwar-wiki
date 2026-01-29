@@ -1,6 +1,6 @@
 # 23 Nexus Opener
 - Date: 2026-01-29
-Build order taken from replay "PvT - 23 Nex Open.rep" by dB)Teame.
+- Build order taken from replay "PvT - 23 Nex Open.rep" by dB)Teame.
 
 ## Core Setup
 - 8/9 Pylon
