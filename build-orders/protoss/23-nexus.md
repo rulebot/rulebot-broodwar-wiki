@@ -1,4 +1,4 @@
-# 23 nexus opener
+# 23 Nexus Opener
 Build order taken from replay "PvT - 23 Nex Open.rep" by dB)Teame.
 
 ## Core Setup
