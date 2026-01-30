@@ -52,3 +52,10 @@
 - 30 Probes
 - 6  Goons
 - 1  Observer
+
+## Benchmarks: Three Important Timings
+- Robobotics Facility starting at around 4:00 minutes.
+- Third Nexus starts around...
+  - 6:40 minutes when Goons are produced constantly, or
+  - earlier if proper scouting intel was gathered and some Goons could be cut safely.
+- Citadel and second Assimilator starts at about 7:00 minutes. 
